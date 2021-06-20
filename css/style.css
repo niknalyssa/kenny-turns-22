@@ -1,0 +1,30 @@
+body
+{
+	background-color: #DABCD5;
+	font-size: medium;
+}
+
+a:link, a:visited
+	{
+		background-color: #EE149F;
+		padding: 15px;
+		text-align: center;
+        color: white;
+		text-decoration: none;
+		font-family: verdana;
+		display: inline-block;
+	}
+
+a:hover
+	{
+		background-color: #EE94CD;
+		color: #34044D;
+		font-family: Bebas Neue;
+	}
+
+a:active
+	{
+		color: #F00BAA;
+		background-color: #F8C2E7 ;
+		text-decoration: none;
+	}
